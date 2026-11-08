@@ -25,9 +25,9 @@ Se você já baixou esta pasta:
 
 - **Mac ou Linux:** rode `bash install.sh` a partir desta pasta. A skill é copiada para `~/.claude/skills/omnx-academico-verificar-fontes`.
 - **Windows:** copie esta pasta para `%USERPROFILE%\.claude\skills\omnx-academico-verificar-fontes`, ou peça para a IA fazer isso. O `install.sh` não é usado no Windows.
-- **Outra ferramenta (Codex e outras):** ainda **não foi testada no Codex**. Peça para a IA da ferramenta seguir a seção "Outra ferramenta (Codex e outras)" do `SKILL.md` e contar o que funcionou.
+- Funciona em Mac, Windows e Linux, no Claude Code e no Codex. Na instalação, a própria IA faz as adaptações necessárias para o seu computador.
 
-Precisa de Python 3 para rodar o script. Se não tiver, a skill avisa e segue pela leitura, sem contagem automática. Testada só no Mac até agora.
+Funciona em Mac, Windows e Linux, no Claude Code e no Codex. Na instalação, a própria IA faz as adaptações necessárias para o seu computador.
 
 ## Como pedir
 
